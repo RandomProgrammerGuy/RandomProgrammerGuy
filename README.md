@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @RandomProgrammerGuy
-- 👀 I’m interested in Music, Cars, Code and Math (Kinda)
-- 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on nothing, currently. Lol.
-- 📫 How to reach me on: Instagram: @parsa.farjam.music and @thatclassicalcomposer
-                         TikTok: @parsa.farjam.music and @thatclassicalcomposer
-                         Email: parsafarjammusic@yahoo.com
-                        
+Hey There!
+
+I'm just a random guy who likes programming, web design, math and music. 
+
+- Languages: HTML, CSS, JavaScript, Python
+- Location: Poitiers, France
+- Favorite Movie Franchise: Star Wars
 
 <!---
 RandomProgrammerGuy/RandomProgrammerGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
