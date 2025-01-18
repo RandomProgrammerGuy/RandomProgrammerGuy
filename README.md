@@ -3,7 +3,7 @@ Hey There!
 I'm just a random guy who likes programming, web design, math and music. 
 
 - Languages: HTML, CSS, JavaScript, Python
-- Location: Poitiers, France
+- Location: Orsay, France
 - Favorite Movie Franchise: Star Wars
 
 <!---
